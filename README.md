@@ -1,11 +1,11 @@
 # CAP-394_Edson_SIlva
-Repositório da discplina CAP-394
+Repositório do Projeto da discplina CAP-394
 
 Capacidade do Sentinel 2, Sentinel 3 e Landsat 8 em Detectar Diferentes Tipos Ópticos de Água nas Planícies de Inundação na Amazônia
  
-Edson Filisbino Freire da Silva 1
+Edson Filisbino Freire da Silva 
  
-1 Instituto Nacional de Pesquisas Espaciais - INPE
+Instituto Nacional de Pesquisas Espaciais - INPE
 Caixa Postal 515 - 12227-010 - São José dos Campos - SP, Brasil
 edson.freirefs@gmail.com.br
 
