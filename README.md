@@ -22,4 +22,13 @@ Este estudo, tem como objetivo investigar a capacidade dos sensores Sentinel-2 (
 
 
 ### 2. Obtenção dos Dados
+
 Os dados foram disponibilizados pelo labISA (INPE), os quais foram medidos por um sensor Trios, já pré-processados e em Rrs de acordo com a metodologia descrita por Mobley (1999). Os dados estão organizados da seguinte forma: Pasta raiz com nome do projeto (BNDES), subpastas com os nomes de cada campanha de campo, em cada campanha estão outros subpastas com o ponto de cada coleta (localização de cada medida do Trios). Em cada ponto, há uma subpasta chamada reflectância, onde está localizado um arquivo xlsx da Rrs in situ. A estrutura desse arquivo está organizada da seguinte forma, há uma folha com nome “Rrs”, e, em cada folha há o índice que corresponde ao comprimento de onda, e as colunas que correspondem a profundidade da medida.
+
+### Referências
+
+CHEN, Z.; HU, C.; MULLER-KARGER, F. Monitoring turbidity in Tampa Bay using MODIS/Aqua 250-m imagery. Remote Sensing of Environment, v. 109, p. 207–220, 2007.
+
+MOBLEY, C. D. Estimation of the remote-sensing reflectance from above-surface measurements. Applied optics, v. 38, n. 36, p. 7442–7455, 1999.
+
+PETUS, C.; CHUST, G.; GOHIN, F.; et al. Estimating turbidity and total suspended matter in the Adour River plume (South Bay of Biscay) using MODIS 250-m imagery. Continental Shelf Research, v. 30, n. 5, p. 379–392, 2010. Elsevier. Disponível em: <http://dx.doi.org/10.1016/j.csr.2009.12.007>.
